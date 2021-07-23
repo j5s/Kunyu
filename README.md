@@ -136,11 +136,7 @@ ZoomEye:
 
 如果有问题可以在各项目下提交issue，或通过以下方式联系我们。
 
-1、 联系Seebug的各位小伙伴拉你入群，如：
-
-![](https://kunyugithub.oss-accelerate.aliyuncs.com/images/init1.png)
-
-2、扫描一下二维码添加ZoomEye运营微信，并备注坤舆，会把大家拉到ZoomEye网空测绘交流群中
+1、扫描一下二维码添加ZoomEye运营微信，并备注坤舆，会把大家拉到ZoomEye网空测绘交流群中
 
 ![](https://kunyugithub.oss-accelerate.aliyuncs.com/images/yunying.jpg)
 
