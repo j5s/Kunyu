@@ -128,6 +128,8 @@ ZoomEye:
 
 工具框架有参考昆仑镜、Pocsuite3，都是非常棒的作品。
 
+感谢 WgpSec Team 的全体小伙伴
+
 感谢 Knowsec 404 Team 的全体小伙伴。
 
 # Community
