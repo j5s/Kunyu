@@ -1,5 +1,7 @@
 <h1 align="center">Kunyu(坤舆)</h1>
 
+[![GitHub stars](https://img.shields.io/github/stars/wikiZ/Kunyu)](https://github.com/wikiZ/Kunyu) [![GitHub issues](https://img.shields.io/github/issues/wikiZ/Kunyu)](https://github.com/wikiZ/Kunyu/issues) [![GitHub release](https://img.shields.io/github/release/wikiZ/Kunyu)](https://github.com/wikiZ/Kunyu/releases) ![](https://img.shields.io/badge/python-%3E%3D3.6-yellow) [![](https://img.shields.io/badge/author-TeamsSix-blueviolet)](https://github.com/wikiZ) [![](https://img.shields.io/badge/WgpSec-%E7%8B%BC%E7%BB%84%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F-blue)](https://github.com/wikiZ)
+
 # 0x00 介绍
 
 ## 工具介绍
