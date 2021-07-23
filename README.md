@@ -46,7 +46,7 @@ python3 Kunyu.py init --apikey your <zoomeye key> --seebug <your seebug key>
 ```
 python Kunyu.py console -m module <ZoomEye>
 ```
-![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/info.png)
+![](https://kunyugithub.oss-accelerate.aliyuncs.com/images/info.png)
 
 **ZoomEye**
 
