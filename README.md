@@ -106,7 +106,7 @@ ZoomEye:
 
 对关联域名以及子域名进行搜索，默认查询关联域名，可以通过设置 dtype 参数设置两种模式。
 
-![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/searchdomain.png)
+![](https://kunyugithub.oss-accelerate.aliyuncs.com/images/searchdomain.png)
 
 **Seebug漏洞查询**
 
