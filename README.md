@@ -37,14 +37,14 @@ python3 kunyu.py
 ```
 python3 Kunyu.py init --apikey your <zoomeye key> --seebug <your seebug key>
 ```
-![](./images/setinfo.png)
+![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/setinfo.png)
 
 # 0x03 工具使用
 
 ```
 python Kunyu.py console -m module <ZoomEye>
 ```
-![](./images/info.png)
+![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/info.png)
 
 **ZoomEye**
 
@@ -78,45 +78,45 @@ ZoomEye:
 
 **HOST 主机搜索**
 
-![](./images/searchhost.png)
+![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/searchhost.png)
 
 **Web 主机搜索**
 
-![](./images/searchweb.png)
+![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/searchweb.png)
 
 **批量 IP 搜索**
 
-![](./images/searchbatch.png)
+![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/searchbatch.png)
 
 **Icon 搜索**
 
 在搜集企业资产时，我们可以使用这样的方式进行检索相同 ico 图标资产，在关联相关企业资产时，通常会有不错的效果。但是需要注意的是如果某些站点也使用这个 ico 图标，可能会关联出无关资产(但是无聊用别人 ico 图标的人总归是少数吧)。支持url或本地文件的方式搜索。
 
-![](./images/searchico.png)
+![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/searchico.png)
 
 **SSL证书搜索**
 
 通过 SSL 证书的序列号进行查询，这样关联出来的资产较为精准，能搜索出使用相同证书的服务。碰到https站点时，可以通过这样的方式。
 
-![](./images/searchcert.png)
+![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/searchcert.png)
 
 **关联域名/子域名搜索**
 
 对关联域名以及子域名进行搜索，默认查询关联域名，可以通过设置 dtype 参数设置两种模式。
 
-![](./images/searchdomain.png)
+![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/searchdomain.png)
 
 **Seebug漏洞查询**
 
 这里就比较简单了，通过输入想要查找的框架、设备等信息，查询历史相关漏洞，这里后期会进行改进，升级。
 
-![](./images/seebug.png)
+![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/seebug.png)
 
 **数据结果**
 
 大家可能好奇查询的数据呢？都保存在项目下 OUTPUT 目录里啦，根据时间戳创建目录，单次启动的所有查询结果都在一个目录下。
 
-![](./images/output.png)
+![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/output.png)
 
 
 ## 后记
