@@ -72,6 +72,7 @@ Global commands:
 ZoomEye:
 	page <Number> 查询返回页数(默认查询一页，每页20条数据)
 	dtype <0/1>   查询关联域名/子域名(设置0为查询关联域名，反之为子域名)
+	btype <host/web> 设置批量查询使用API接口
 ```
 
 ## 使用案例
