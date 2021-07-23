@@ -1,6 +1,6 @@
 <h1 align="center">Kunyu(坤舆)</h1>
 
-[![GitHub stars](https://img.shields.io/github/stars/wikiZ/Kunyu)](https://github.com/wikiZ/Kunyu) [![GitHub issues](https://img.shields.io/github/issues/wikiZ/Kunyu)](https://github.com/wikiZ/Kunyu/issues) [![GitHub release](https://img.shields.io/github/release/wikiZ/Kunyu)](https://github.com/wikiZ/Kunyu/releases) ![](https://img.shields.io/badge/python-%3E%3D3.2-yellow) [![](https://img.shields.io/badge/author-风起-blueviolet)](https://github.com/wikiZ) [![](https://img.shields.io/badge/KnownSec-404Team-blue)](https://github.com/wikiZ)
+[![GitHub stars]()](https://github.com/wikiZ/Kunyu) [![GitHub issues](https://img.shields.io/github/issues/wikiZ/Kunyu)](https://github.com/wikiZ/Kunyu/issues) [![GitHub release](https://img.shields.io/github/release/wikiZ/Kunyu)](https://github.com/wikiZ/Kunyu/releases) ![](https://img.shields.io/badge/python-%3E%3D3.2-yellow) [![](https://img.shields.io/badge/author-风起-blueviolet)](https://github.com/wikiZ) [![](https://img.shields.io/badge/KnownSec-404Team-blue)](https://github.com/wikiZ)
 
 # 0x00 介绍
 
