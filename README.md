@@ -88,7 +88,7 @@ ZoomEye:
 
 **批量 IP 搜索**
 
-![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/searchbatch.png)
+![](https://kunyugithub.oss-accelerate.aliyuncs.com/images/searchbatch.png)
 
 **Icon 搜索**
 
@@ -100,7 +100,7 @@ ZoomEye:
 
 通过 SSL 证书的序列号进行查询，这样关联出来的资产较为精准，能搜索出使用相同证书的服务。碰到https站点时，可以通过这样的方式。
 
-![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/searchcert.png)
+![](https://kunyugithub.oss-accelerate.aliyuncs.com/images/searchcert.png)
 
 **关联域名/子域名搜索**
 
@@ -112,7 +112,7 @@ ZoomEye:
 
 这里就比较简单了，通过输入想要查找的框架、设备等信息，查询历史相关漏洞，这里后期会进行改进，升级。
 
-![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/seebug.png)
+![](https://kunyugithub.oss-accelerate.aliyuncs.com/images/seebug.png)
 
 **数据结果**
 
