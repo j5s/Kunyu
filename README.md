@@ -122,10 +122,24 @@ ZoomEye:
 ![](https://kunyugithub.oss-cn-beijing.aliyuncs.com/images/output.png)
 
 
-## 后记
+## Loading
 
 其实还有很多的思路，但是作为 Alpha 版本先这样，后期会不断进行完善的，希望 Kunyu (坤舆)能够让更多安全从业者所知，谢谢各位的支持。
 
 工具框架有参考昆仑镜、Pocsuite3，都是非常棒的作品。
 
 感谢 Knowsec 404 Team 的全体小伙伴。
+
+# Community
+
+如果有问题可以在各项目下提交issue，或通过以下方式联系我们。
+
+1、 联系Seebug的各位小伙伴拉你入群，如：
+
+![](https://kunyugithub.oss-accelerate.aliyuncs.com/images/init1.png)
+
+2、扫描一下二维码添加ZoomEye运营微信，并备注坤舆，会把大家拉到ZoomEye网空测绘交流群中
+
+![](https://kunyugithub.oss-accelerate.aliyuncs.com/images/yunying.jpg)
+
+
